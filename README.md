@@ -2,7 +2,7 @@
 
 I'm passionate about coding and making stuff :)
 
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🌱 I’m currently learning GraphQL
 - 💬 Ask me about anything here
@@ -10,7 +10,7 @@ I'm passionate about coding and making stuff :)
     <img height="15" src="./assets/twitter.svg" alt="Twitter"/>
   </a>
 - ⚡ My recent projects:
-  - 📚 I published **git basics** ebook. You can by it and support me ➡️ https://gum.co/PwJfo
+  - 📚 I published **git basics** ebook. You can buy it and support me on gumroad https://gum.co/PwJfo
   - 🦠 Visualizing COVID-19 impact in the Balkan countries https://covid19-balkan.com & https://covid19-vizualization-time-line.vercel.app
 
 **Languages that I use**
