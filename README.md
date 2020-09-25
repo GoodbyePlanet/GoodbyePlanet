@@ -2,8 +2,6 @@
 
 I'm passionate about coding and making stuff :)
 
-<img align="right" alt="GIF" height="250vh" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 - 🌱 I’m currently learning GraphQL
 - 💬 Ask me about anything here
   <a href="https://twitter.com/nemanjavasa" target="_blank">
