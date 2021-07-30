@@ -9,7 +9,7 @@ I'm passionate about coding and making stuff :)
   </a>
 
 - ⚡ My recent projects:
-  - 📚 I published **git basics** ebook. You can buy it and support me on gumroad https://gum.co/PwJfo
+  - 📚 I published **git basics** ebook. You can buy it and support me on gumroad https://gum.co/PwJfo or you can find it here https://git-basics.com
   - 🦠 Visualizing COVID-19 impact in the Balkan countries https://covid19-balkan.com & https://covid19-vizualization-time-line.vercel.app
 
 **Tech stach that I use:**
