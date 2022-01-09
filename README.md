@@ -12,7 +12,6 @@ I'm passionate about coding and making stuff :)
     - 📚 I published **git basics** ebook. You can buy it and support me on gumroad https://gum.co/PwJfo or you can find it
       here https://git-basics.com
     - 🦠 COVID-19 visualizing data - web sites https://covid19-balkan.com & https://covid19-vizualization-time-line.vercel.app
-      & http://covid19-vaccinations-news.vercel.app/
 
 **Tech stach that I use:**
 
