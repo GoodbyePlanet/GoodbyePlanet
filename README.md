@@ -10,9 +10,9 @@ I'm passionate about coding and making stuff :)
 
 - ⚡ My recent projects:
     - CTF game [How curious are you?](https://how-curious-are-you.herokuapp.com/)
-    - 📚 I published **git basics** ebook. You can buy it and support me on gumroad https://gum.co/PwJfo or you can find it
-      here https://git-basics.com
-    - 🦠 COVID-19 visualizing data - web sites https://covid19-balkan.com & https://covid19-vizualization-time-line.vercel.app
+    - 📚 I published **git basics** ebook. You can buy it and support me on [gumroad](https://gum.co/PwJfo) or you can find it
+      here [git-basics](https://git-basics.com)
+    - 🦠 COVID-19 visualizing data - web sites [covid19-balkan](https://covid19-balkan.com) & [covid19-visualization](https://covid19-vizualization-time-line.vercel.app)
 
 **Tech stach that I use:**
 
