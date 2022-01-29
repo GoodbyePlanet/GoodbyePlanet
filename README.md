@@ -1,6 +1,6 @@
-### Hi there I'm Nemanja 👋
+### $ whoami?
 
-I'm passionate about coding and making stuff :)
+I'm Nemanja and I'm passionate about coding and making stuff :)
 
 - 🌱 I’m currently learning GraphQL
 - 💬 Ask me about anything here
