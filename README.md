@@ -2,7 +2,9 @@
 
 I'm Nemanja and I'm passionate about coding and making stuff :)
 
-- 🌱 I’m currently learning Vim (using IdeaVim)
+- 🌱 I’m currently learning 
+  <img height="20" src="https://raw.githubusercontent.com/GoodbyePlanet/GoodbyePlanet/master/assets/vim.svg" alt="Vim"/>
+ (using IdeaVim)
 - 💬 Ask me about anything here
   <a href="https://twitter.com/nemanjavasa" target="_blank">
   <img height="15" src="https://raw.githubusercontent.com/GoodbyePlanet/GoodbyePlanet/master/assets/twitter.svg" alt="Twitter"/>
