@@ -11,7 +11,7 @@ I'm Nemanja and I'm passionate about coding and making stuff :)
   </a>
 
 - ⚡ My recent projects:
-    - CTF game [How curious are you?](https://how-curious-are-you.herokuapp.com/)
+    - CTF game [How curious are you?](https://how-curious-are-you-private.onrender.com)
     - 📚 I published **git basics** ebook. You can buy it and support me on [gumroad](https://gum.co/PwJfo) or you can find it
       here [git-basics](https://git-basics.com)
     - 🦠 COVID-19 visualizing data - [covid19-balkan](https://covid19-balkan.vercel.app/)
