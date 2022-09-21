@@ -12,6 +12,7 @@ I'm Nemanja and I'm passionate about coding and making stuff :)
 
 - ⚡ My recent projects:
     - CTF game [How curious are you?](https://how-curious-are-you-private.onrender.com)
+    - Short blogs [Weeblog](https://weeblog-kappa.vercel.app/)
     - 📚 I published **git basics** ebook. You can buy it and support me on [gumroad](https://gum.co/PwJfo) or you can find it
       here [git-basics](https://git-basics.com)
     - 🦠 COVID-19 visualizing data - [covid19-balkan](https://covid19-balkan.vercel.app/)
