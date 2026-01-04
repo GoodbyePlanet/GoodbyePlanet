@@ -2,9 +2,8 @@
 
 I'm Nemanja and I'm passionate about coding and making stuff :)
 
-- 🌱 I’m currently learning 
-  <img height="20" src="https://raw.githubusercontent.com/GoodbyePlanet/GoodbyePlanet/master/assets/vim.svg" alt="Vim"/>
- (using IdeaVim)
+- 🤖 Learning AI concepts and turning them into working **AI applications and agents**
+- 🚀 Looking for more opportunities to **build AI agents and AI-powered products**
 - 💬 Ask me about anything here
   <a href="https://twitter.com/nemanjavasa" target="_blank">
   <img height="15" src="https://raw.githubusercontent.com/GoodbyePlanet/GoodbyePlanet/master/assets/twitter.svg" alt="Twitter"/>
