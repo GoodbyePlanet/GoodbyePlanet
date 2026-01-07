@@ -2,8 +2,7 @@
 
 I'm Nemanja and I'm passionate about coding and making stuff :)
 
-- 🤖 Learning AI concepts and turning them into working **AI applications and agents**
-- 🚀 Looking for more opportunities to **build AI agents and AI-powered products**
+- 🤖 Learning AI concepts and turning them into working **AI applications and Agents**
 - 💬 Ask me about anything here
   <a href="https://twitter.com/nemanjavasa" target="_blank">
   <img height="15" src="https://raw.githubusercontent.com/GoodbyePlanet/GoodbyePlanet/master/assets/twitter.svg" alt="Twitter"/>
@@ -13,7 +12,7 @@ I'm Nemanja and I'm passionate about coding and making stuff :)
     - CTF games:
       - [How curious are you?](https://how-curious-are-you.fly.dev)
       - [How curious are you 2.0?](https://how-curious-are-you-bblv.vercel.app)
-    - Short blogs [GoodbyePlanet blog](https://goodbyeplanet-blog.vercel.app)
+    - Blogs [GoodbyePlanet blog](https://goodbyeplanet-blog.vercel.app)
     - [p5.js sketches](https://p5-sketches-gamma.vercel.app) - Implementation of KNN (k nearest neighbors) and Linear Regression with Gradient Descent
     - 📚 I published **git basics** ebook. You can buy it and support me on [gumroad](https://gum.co/PwJfo) or you can find it
       here [git-basics](https://www.git-basics.com)
