@@ -2,7 +2,7 @@
 
 I'm Nemanja and I'm passionate about coding and making stuff :)
 
-- 🤖 Learning AI concepts and turning them into working **AI applications and Agents**
+- 🤖 Currently focused on learning AI principles and translating them into practical **AI applications and intelligent Agents**.
 - 💬 Ask me about anything here
   <a href="https://twitter.com/nemanjavasa" target="_blank">
   <img height="15" src="https://raw.githubusercontent.com/GoodbyePlanet/GoodbyePlanet/master/assets/twitter.svg" alt="Twitter"/>
