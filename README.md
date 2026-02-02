@@ -9,6 +9,7 @@ I'm Nemanja and I'm passionate about coding and making stuff :)
   </a>
 
 - ⚡ My recent projects:
+    - [Vimark](https://vimark-two.vercel.app/) - markdown editor with VIM keybindings and URL-based state management
     - CTF games:
       - [How curious are you?](https://how-curious-are-you.fly.dev)
       - [How curious are you 2.0?](https://how-curious-are-you-bblv.vercel.app)
