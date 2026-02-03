@@ -10,6 +10,9 @@ I'm Nemanja and I'm passionate about coding and making stuff :)
 
 - ⚡ My recent projects:
     - [Vimark](https://vimark-two.vercel.app/) - markdown editor with VIM keybindings and URL-based state management
+    - 3D apps:
+        -  INIT conference [init](https://init-lp-2025.vercel.app/)
+        -  PD in 3D [pdin3d](https://pdin3d.vercel.app/)
     - CTF games:
       - [How curious are you?](https://how-curious-are-you.fly.dev)
       - [How curious are you 2.0?](https://how-curious-are-you-bblv.vercel.app)
