@@ -9,6 +9,7 @@ I'm Nemanja and I'm passionate about coding and making stuff :)
   </a>
 
 - ⚡ My recent projects:
+    - [EU AI Act Compliance Agent](https://eu-ai-audit.com) - An automated EU AI Act compliance agent designed to perform in-depth research, information gathering, and regulatory analysis of external AI tools based on EU AI Act requirements.
     - [Vimark](https://vimark-two.vercel.app/) - markdown editor with VIM keybindings and URL-based state management
     - 3D apps:
         -  INIT conference [init](https://init-lp-2025.vercel.app/)
