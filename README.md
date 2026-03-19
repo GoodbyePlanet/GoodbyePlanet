@@ -16,12 +16,3 @@ I'm Nemanja and I'm passionate about coding and making stuff :)
     - [p5.js sketches](https://p5-sketches-gamma.vercel.app) - Implementation of KNN (k nearest neighbors) and Linear Regression with Gradient Descent
     - 📚 I published **git basics** ebook. You can buy it and support me on [gumroad](https://gum.co/PwJfo) or you can find it
       here [git-basics](https://www.git-basics.com)
-
-**Tech stach that I use:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/GoodbyePlanet/GoodbyePlanet/master/assets/javascript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/GoodbyePlanet/GoodbyePlanet/master/assets/typescript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/GoodbyePlanet/GoodbyePlanet/master/assets/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/GoodbyePlanet/GoodbyePlanet/master/assets/graphql.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/GoodbyePlanet/GoodbyePlanet/master/assets/nodejs-icon.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/GoodbyePlanet/GoodbyePlanet/master/assets/java.svg"></code>
