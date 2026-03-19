@@ -3,11 +3,6 @@
 I'm Nemanja and I'm passionate about coding and making stuff :)
 
 - 🤖 Currently focused on learning AI principles and translating them into practical **AI applications and intelligent Agents**.
-- 💬 Ask me about anything here
-  <a href="https://twitter.com/nemanjavasa" target="_blank">
-  <img height="15" src="https://raw.githubusercontent.com/GoodbyePlanet/GoodbyePlanet/master/assets/twitter.svg" alt="Twitter"/>
-  </a>
-
 - ⚡ My recent projects:
     - [EU AI Act Compliance Agent](https://eu-ai-audit.com) - An automated EU AI Act compliance agent designed to perform in-depth research, information gathering, and regulatory analysis of external AI tools based on EU AI Act requirements.
     - [Vimark](https://vimark-two.vercel.app/) - markdown editor with VIM keybindings and URL-based state management
