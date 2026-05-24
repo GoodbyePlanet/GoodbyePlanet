@@ -15,6 +15,5 @@ I'm Nemanja and I'm passionate about coding and making stuff :)
     - CTF games:
       - [How curious are you?](https://how-curious-are-you.fly.dev)
       - [How curious are you 2.0?](https://how-curious-are-you-bblv.vercel.app)
- Gradient Descent
     - 📚 I published **git basics** ebook. You can buy it and support me on [gumroad](https://gum.co/PwJfo) or you can find it
       here [git-basics](https://www.git-basics.com)
