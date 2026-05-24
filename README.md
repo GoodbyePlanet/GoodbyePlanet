@@ -6,6 +6,7 @@ I'm Nemanja and I'm passionate about coding and making stuff :)
 - 🖊️ Writing blogs on [GoodbyePlanet blog](https://blog.goodbyeplanet.dev)
 - 📖 Sharing learning graphs on [Pathforge](https://pathforge.goodbyeplanet.dev)
 - ⚡ My recent projects:
+    - **semcode** Semantic code-search MCP. Combines dense embeddings with sparse BM25 vectors for hybrid search that balances semantic understanding with keyword precision.
     - [EU AI Act Compliance Agent](https://eu-ai-audit.com) - An automated EU AI Act compliance agent designed to perform in-depth research, information gathering, and regulatory analysis of external AI tools based on EU AI Act requirements.
     - [Vimark](https://vimark.goodbyeplanet.dev) - markdown editor with VIM keybindings and URL-based state management
     - 3D apps:
@@ -14,6 +15,6 @@ I'm Nemanja and I'm passionate about coding and making stuff :)
     - CTF games:
       - [How curious are you?](https://how-curious-are-you.fly.dev)
       - [How curious are you 2.0?](https://how-curious-are-you-bblv.vercel.app)
-    - [p5.js sketches](https://p5-sketches-gamma.vercel.app) - Implementation of KNN (k nearest neighbors) and Linear Regression with Gradient Descent
+ Gradient Descent
     - 📚 I published **git basics** ebook. You can buy it and support me on [gumroad](https://gum.co/PwJfo) or you can find it
       here [git-basics](https://www.git-basics.com)
